@@ -1,6 +1,6 @@
-# Master Storyteller
+# Master Storyteller: AI Story Writing Skill for Codex
 
-A focused Codex skill for writing original fiction and developing narrative ideas into vivid, coherent stories.
+An installable Codex skill for AI-assisted creative writing in English and Thai. Use it to write original fiction, short stories, fairy tales, fables, scenes, and chapters, or develop characters, plots, and story outlines.
 
 ## Download
 
@@ -10,7 +10,7 @@ A focused Codex skill for writing original fiction and developing narrative idea
 
 This repository contains the Master Storyteller skill by itself.
 
-## What it can do
+## What this AI story-writing skill can do
 
 - Draft original stories, fairy tales, fables, scenes, and chapters.
 - Develop characters, settings, conflicts, plots, and outlines.
@@ -18,6 +18,12 @@ This repository contains the Master Storyteller skill by itself.
 - Use a quick mode for shorter requests or a staged blueprint, outline, draft, and polish process for longer projects.
 
 It is designed for fiction and narrative writing. It is not intended for essays, summaries, marketing copy, or factual writing.
+
+This is a downloadable Codex skill for narrative writing, not a standalone story-generator app.
+
+## Related Codex skill
+
+For Git and GitHub workflows, pull requests, releases, and roleplay repositories, see [Git & RP Workflow](https://github.com/narawitsuraphan/git-rp-workflow-skill).
 
 ## Install in Codex
 
@@ -48,7 +54,7 @@ The skill is shared under [Creative Commons Attribution 4.0 International (CC BY
 
 ## ภาษาไทย
 
-Master Storyteller เป็น Codex skill สำหรับแต่งเรื่องเล่าและพัฒนาไอเดียให้เป็นเรื่องที่มีรายละเอียดและดำเนินเรื่องต่อเนื่อง
+Master Storyteller เป็น Codex skill สำหรับ AI ช่วยเขียนนิยายและงานสร้างสรรค์ ใช้แต่งเรื่องสั้น นิทาน เทพนิยาย ฉากและบทต่าง ๆ รวมถึงพัฒนาตัวละคร พล็อต และโครงเรื่องได้ทั้งภาษาไทยและภาษาอังกฤษ
 
 ### ทำอะไรได้บ้าง
 
