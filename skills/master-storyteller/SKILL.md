@@ -1,158 +1,139 @@
 ---
 name: master-storyteller
-description: Use when the user asks for a story, fairy tale, fable, short fiction, or help developing a plot, character, or narrative outline. Guides a phased process (blueprint, outline, draft, polish) and enforces concrete, specific, non-generic prose.
+description: Write original stories, fairy tales, fables, short fiction, scenes and chapters, and help develop plots, characters and outlines, using a phased process (blueprint, outline, draft, polish) that produces concrete, specific, non-generic prose. Use this skill whenever the user asks for a story, tale, fable, bedtime story, short fiction, a scene or chapter, a character or plot, or wants a draft rewritten in a stronger narrative voice, even if they never say "storyteller". Also triggers on Thai requests such as แต่งนิทาน, เขียนเรื่องสั้น, เล่าเรื่อง, เทพนิยาย, นิยาย, พล็อตเรื่อง. Do not use for essays, summaries, marketing copy or factual writing.
 ---
 
 # Master Storyteller & Narrative Architect
 
-## Purpose
-Craft immersive, emotionally resonant stories and fairy tales that read as if a distinctive human author wrote them. The enemy is the generic: interchangeable imagery, flat dialogue, predictable plot beats. Every choice (a detail, a line of dialogue, a plot turn) should be one that only *this* story could contain.
+Write stories that read as if a distinctive human author made them. The enemy is the generic: interchangeable imagery, flat dialogue, predictable beats. Every detail, line of dialogue and plot turn should be one that only *this* story could contain.
 
-## When to Use This Skill
-- The user asks for a story, fairy tale, fable, short fiction, or a chapter or scene.
-- The user wants help building a character, plot, or outline.
-- The user shares a draft and wants it rewritten or strengthened in a narrative voice.
+## Step 0: Read the request and pick a mode
 
-Do not use it for essays, summaries, marketing copy, or purely factual writing.
+Work out what the user has and has not specified, and fill gaps with these defaults rather than interrogating them.
 
-## Step 0: Read the Request and Choose a Mode
-
-First, identify what the user has and has not specified. The key variables:
-
-| Variable | Default if unspecified |
+| Variable | Default |
 |---|---|
-| Language | The language the user wrote the request in |
-| Genre / tone | Infer from the request; ask only if truly ambiguous |
-| Audience | General adult readers; if the request signals children, write age-appropriate |
-| Length | Short story, roughly 1,200-2,500 words total |
-| Point of view | Third person limited for most stories; first person for confessional or intimate tones |
-| Tense | Past tense (present tense only if the user asks or the tone demands immediacy) |
-| Ending | Earned and specific; bittersweet or open is allowed if it fits the story |
+| Language | The language the request was written in |
+| Genre / tone | Inferred from the request; ask only if truly ambiguous |
+| Audience | General adult readers; age-appropriate if the request signals children |
+| Length | Short story, about 1,200-2,500 words |
+| Point of view | Third person limited; first person for confessional or intimate tones |
+| Tense | Past (present only if the user asks or the tone needs immediacy) |
+| Ending | Earned by the story's own events; bittersweet or open is fine |
 
-**Choose a mode:**
+**Quick mode** (default for anything under ~2,500 words, or when the premise is already clear): skip approval gates. Settle a one-line logline privately, draft the whole story in one pass, run the Polish checklist silently, deliver, then offer to revise or expand.
 
-- **Quick mode.** Use when the request is short or the user wants it fast ("write me a short fairy tale about a fox"), or the premise is already clear. Skip the approval gates. Write a one-line logline for yourself, then draft the full story in one pass, apply the Polish checklist silently, and deliver. Afterward, offer to revise or expand.
-- **Full mode.** Use when the user asks for a long story, a multi-chapter work, a novel outline, or explicitly asks to plan together. Follow Steps 1-4 with approval at each gate.
+**Full mode** (long stories, multi-chapter work, novel outlines, or when the user wants to plan together): follow Steps 1-4 with an approval gate after Steps 1 and 2.
 
-*Why modes exist:* Approval gates protect the user from investing in a direction they dislike. For a 1,000-word tale the gates cost more than they save; for a 20,000-word story they save a lot.
+Gates exist because a wrong direction is cheap to fix at blueprint stage and expensive after 10,000 words. For a short tale the gates cost more than they save, which is why Quick mode skips them.
 
-If the user is ambiguous about the mode, default to Quick mode for anything under about 2,500 words and Full mode for anything longer.
+## Craft principles
 
-## Core Craft Principles
+Each principle carries its reason. Apply the intent where the examples do not reach.
 
-Each principle includes its reason, so apply the *intent* in situations the examples do not cover.
+**1. Show, don't tell, where it earns the space.** Convey emotion through action, object and setting. Name a feeling outright only when a flat sentence will hit harder than imagery.
+- Weak: "She was nervous about the interview."
+- Strong: "She rearranged the pens on the lobby table twice, then sat on her hands so they would stop."
 
-### 1. Show, don't tell, but only where it earns its space
-State emotion through action, object, and environment rather than naming it. Name an emotion directly only when plain statement hits harder than imagery (a flat, blunt sentence can devastate after a run of detail).
+Readers trust what they infer more than what they are handed.
 
-- Weak: *"She was nervous about the interview."*
-- Strong: *"She rearranged the pens on the lobby table twice, then sat on her hands so they'd stop doing it."*
+**2. Specific over decorative.** Test each descriptive sentence: *could this appear unchanged in a hundred other stories?* If so, replace it with a detail only this character, place and moment could have.
+- Generic: "The old kitchen smelled of home."
+- Specific: "The kitchen smelled of scorched sesame and the lemon oil her grandmother wiped on the counters, a smell that outlived the grandmother by eleven years."
 
-*Why:* Readers believe what they infer. A feeling they deduce lands harder than one they are handed.
+Generic detail is invisible to readers, and that invisibility is what makes prose feel machine-written.
 
-### 2. Specificity over decoration
-Choose the detail that could only belong to this character, place, and moment. Test every descriptive sentence: **"Could this sentence appear unchanged in a hundred other stories?"** If yes, replace it with something particular.
+**3. Select senses, do not tally them.** Use the two or three senses that carry the scene's mood, always including at least one that is not sight. Let the point-of-view character filter what is noticed: a baker notices heat and yeast, a thief notices exits and weight. Ticking off all five bloats scenes; selective perception also reveals character.
 
-- Generic: *"The old kitchen smelled of home."*
-- Specific: *"The kitchen smelled of scorched sesame and the lemon-oil her grandmother used on the counters, a smell that outlived the grandmother by eleven years."*
+**4. Pace through rhythm.** Short sentences for action and shock, long looping ones for memory and landscape, an occasional one-line paragraph for emphasis. Avoid three consecutive sentences with the same shape.
 
-*Why:* Generic details are invisible. The reader's eye slides over them, and that is what makes prose feel machine-written.
+**5. Dialogue with subtext.** Each speaker has a distinct rhythm, vocabulary, and things they dodge or never say. People answer a different question, change the subject, or talk about the task instead of the wound. Cut greetings and exchanges that only deliver information. Prefer "said" or an action beat over tags that do emotional work.
+- On the nose: "I'm scared you'll leave me." / "I won't leave."
+- Subtext: "You packed the good knives." / "They're better in a house with a stove."
 
-### 3. Sensory grounding: select, don't enumerate
-Anchor each scene in the senses, but choose the **two or three** that carry the scene's mood. Do not run through all five by rote. Include at least one non-visual sense in every scene. Let the point-of-view character's profession, history, and mood filter what they notice (a baker notices heat and yeast; a thief notices exits and weight).
+Subtext hands the reader something to work out, and working things out is what keeps people reading.
 
-*Why:* Ticking off five senses bloats scenes and flattens them. Selective perception also reveals character.
+**6. Write around autopilot patterns.** Avoid the pattern, not just the phrase, or its cousin will take its place:
+- Stock openers ("In the heart of...", "Nestled between...") and filler "Once upon a time" outside a deliberate fairy-tale frame
+- Cheap drama transitions ("Suddenly...", "Little did they know...", "Fast forward...")
+- A narrator announcing significance ("It was a testament to...", "In that moment, she realized...")
+- Shorthand emotion (a single tear, a held breath she did not know about, hearts like drums, sparkling eyes)
+- Reflexive triplets and repeated "not X, but Y" constructions
+- Endings that explain the theme aloud
+- Stock names and places (Elara, Lyra, Eldoria, Whispering Woods) unless the world demands them
 
-### 4. Pacing as rhythm
-Vary sentence length deliberately. Short sentences for action, shock, and tension. Longer, looping sentences for reflection, memory, and landscape. Use a very short paragraph for emphasis, sparingly. Avoid three consecutive sentences with the same structure.
-
-### 5. Dialogue with subtext
-- Each speaking character has a distinct voice: rhythm, vocabulary, what they dodge, what they never say.
-- People rarely say exactly what they feel. They deflect, change the subject, answer a different question, or talk about the task instead of the wound.
-- Cut greetings, throat-clearing, and exchanges that only deliver information. If a character explains something both of them already know, rewrite it.
-- Use plain tags ("said", "asked") or action beats. Avoid dialogue tags that do the emotional work ("she whispered sadly").
-
-*Why:* Subtext gives the reader something to figure out, and figuring things out is what keeps people reading.
-
-### 6. Avoid autopilot patterns by writing around them, not just banning them
-The following are signals of generic prose. Do not use them, but more importantly, understand the pattern behind them, because a forbidden phrase will simply be replaced by its cousin if the pattern remains.
-
-**Patterns to avoid:**
-- Stock openers and scene-setters ("In the heart of...", "Once upon a time" used as filler outside a deliberate fairy-tale frame, "Nestled between...").
-- Cheap drama transitions ("Suddenly...", "Little did they know...", "Fast forward to...", "And then, everything changed.").
-- Narrator summarizing significance ("It was a testament to...", "A reminder that...", "In that moment, she realized...").
-- Emotional shorthand clichés (a single tear, a breath she didn't know she was holding, hearts pounding like drums, eyes sparkling).
-- Rule-of-three lists used as a reflex, and "not X, but Y" constructions used repeatedly.
-- Endings that explain the theme out loud.
-- Stock names and places (Elara, Lyra, Eldoria, Whispering Woods) unless the story demands them. Choose names that fit the culture, era, and personality of the world.
-
-**Thai-language equivalents** (when writing in Thai, avoid): "ทันใดนั้น", "ในใจกลางของ...", "นี่คือเครื่องพิสูจน์ว่า...", "โดยที่เธอไม่รู้เลยว่า...", "เวลาผ่านไป..." as a lazy skip, and narrators who announce a lesson.
-
-*Why:* These phrases are the statistical average of fiction. Readers feel the averageness even when they cannot name it.
+When writing in Thai, also avoid: ทันใดนั้น, ในใจกลางของ..., นี่คือเครื่องพิสูจน์ว่า..., โดยที่เธอไม่รู้เลยว่า..., "เวลาผ่านไป..." used as a lazy skip, and narrators who announce a lesson.
 
 ## Workflow
 
-### Step 1: Concept & Character Blueprint (Full mode; present for approval)
-Present a compact blueprint:
-
-- **Logline:** One sentence containing a protagonist, a goal, and an obstacle, with an implied cost.
-- **Protagonist:** Name; core desire (what they want) and underlying need (what they actually require); fatal flaw; what they stand to lose; **voice notes** (speech rhythm, verbal habits, topics they avoid, one thing they would never say aloud).
-- **Supporting cast:** One line each for key figures, with each one's distinct voice.
-- **The Conflict:** The central antagonistic force or obstacle, and why it is hard to overcome *for this particular protagonist* (their flaw should make it harder).
-- **Setting & Lore:** The world in a few atmospheric strokes, with two or three sensory signatures unique to the place.
+### Step 1: Concept and character blueprint (Full mode; present for approval)
+- **Logline:** one sentence with a protagonist, a goal, an obstacle and an implied cost.
+- **Protagonist:** name; what they want and what they actually need; fatal flaw; what they stand to lose; voice notes (speech rhythm, verbal habits, topics they avoid, one thing they would never say aloud).
+- **Supporting cast:** one line each, including each one's distinct voice.
+- **Conflict:** the opposing force, and why it is hard *for this protagonist* (their flaw should make it harder).
+- **Setting:** a few atmospheric strokes with two or three sensory signatures unique to the place.
 - **Tone, POV, tense, target length.**
-- **Thematic question:** The question the story quietly asks (never stated outright in the text).
+- **Thematic question:** what the story quietly asks, never stated in the text.
 
-End by asking for approval or changes. Do not proceed to Step 2 until the user responds.
+Ask for approval or changes, and wait.
 
-### Step 2: Structure Outline (Full mode; present for approval)
-Choose the structure that fits the story:
+### Step 2: Structure outline (Full mode; present for approval)
+Pick the structure that fits.
 
-**Three-Act (default for most fiction):**
-- **Act I, Setup:** The status quo (showing the protagonist's flaw in action), the inciting incident, and the point of no return.
-- **Act II, Confrontation:** Escalating attempts and complications, a midpoint shift, rising stakes, and the lowest point (the darkest night of the soul), where the flaw costs the protagonist something real.
-- **Act III, Resolution:** The climax (the decisive test, where the protagonist must act against their flaw), and the aftermath showing what has changed in the character and the world.
+**Three acts** (default for most fiction)
+- Act I: status quo showing the flaw in action, inciting incident, point of no return.
+- Act II: escalating attempts, a midpoint shift, rising stakes, and a lowest point where the flaw costs something real.
+- Act III: the decisive test where the protagonist must act against their flaw, then an aftermath showing what changed.
 
-**Rule of Three (preferred for fairy tales and fables):**
-Three attempts, tests, or encounters, each escalating, with the third breaking the pattern. Add a clear opening state and a closing state that mirrors it with a change.
+**Rule of three** (preferred for fairy tales and fables): three escalating attempts, tests or encounters, the third breaking the pattern, framed by an opening state and a closing state that mirrors it with a change.
 
-For each beat, add a one-line note on the emotional shift (what the reader should feel moving in and out of it). Ask for approval before drafting.
+Add a one-line emotional shift per beat. Ask for approval before drafting.
 
-### Step 3: Drafting (act by act or scene by scene in Full mode; whole story in Quick mode)
-- Draft from the approved outline.
-- Open scenes late and leave early: start as close to the turning point as possible, and exit once the scene's change has occurred.
-- Every scene should change something (a relationship, a belief, a fact, a stake). If nothing changes, cut or merge the scene.
-- Plant details early that pay off later. Let objects recur and gain meaning.
-- In Full mode, after each act, pause and offer the user a chance to redirect before continuing.
+### Step 3: Draft
+- Follow the approved outline; in Full mode pause after each act so the user can redirect.
+- Enter scenes late and leave early, once the scene's change has happened.
+- Every scene must change something (a relationship, a belief, a fact, a stake). If nothing changes, cut or merge it.
+- Plant details early and let objects recur with growing meaning.
 
-### Step 4: Polish (always, silently in Quick mode)
-Run this checklist on the draft and fix problems before delivery:
+### Step 4: Polish (always; silent in Quick mode)
+1. Cliche sweep against principle 6.
+2. Interchangeability test: flag any sentence that fits a hundred other stories.
+3. Telling sweep: dramatize named emotions unless blunt statement is stronger.
+4. Dialogue pass: no one states feelings outright; voices are distinguishable; filler cut.
+5. Rhythm pass: vary sentence length and structure.
+6. Redundancy cut: remove adjectives, adverbs and restated beats that do no work.
+7. Continuity: names, timeline, objects, facts.
+8. Ending: earned by the story's events and not self-explaining.
 
-1. **Cliché sweep:** Any stock phrase or autopilot pattern from Principle 6? Replace with something specific.
-2. **Interchangeability test:** Flag sentences that could appear in any story; make them particular.
-3. **Telling sweep:** Any named emotion that could be dramatized? Fix unless the blunt statement is deliberately stronger.
-4. **Dialogue pass:** Does anyone state their feelings outright? Does any character sound like another? Remove filler exchanges.
-5. **Rhythm pass:** Read for monotony of sentence length or structure; vary it.
-6. **Redundancy cut:** Remove adjectives and adverbs doing no work, repeated information, and restated beats.
-7. **Continuity check:** Names, timeline, objects, and facts consistent throughout.
-8. **Ending check:** Is it earned by the story's own events? Does it avoid explaining itself?
+## Output format
+- Title as `#`; chapters or major scenes as `##`; a short story may use scene breaks (`***`) instead.
+- Standard quotation marks for dialogue.
+- For fairy tales and fables, close with a subtle takeaway in a `>` blockquote, phrased as an image or observation and never as "The moral of the story is...". Omit it if it would feel tacked on.
+- Keep the story free of commentary. Put notes and offers (revise, extend, change tone) after it in one or two sentences.
+- Write in the user's language; in Thai use natural written Thai for the genre, not translated English idioms.
 
-## Output Formatting
-- Use `##` headers to separate chapters or major scenes. A short story may use a single title header and scene breaks (`***`) instead.
-- Use standard quotation marks (`"..."`) for dialogue.
-- If the story is a fairy tale or fable, close with a subtle thematic takeaway in a blockquote (`> ...`), phrased as an image or an observation, never as "The moral of the story is...". Omit it if it would feel tacked on.
-- Do not add commentary inside the story. Place notes and offers (revise, extend, change tone) *after* the story, in one or two sentences.
-- Write in the user's language unless asked otherwise. When writing in Thai, use natural written Thai appropriate to the genre, not a literal translation of English idioms.
+## Examples
 
-## Edge Cases
-- **User supplies their own draft:** Preserve their voice and plot intent; strengthen with the craft principles and explain major changes briefly.
-- **User gives only a title or one word:** Use Quick mode, pick a fresh angle rather than the most obvious interpretation, and offer alternatives after.
-- **Children's stories:** Keep language concrete and rhythmic, use repetition on purpose, keep darkness gentle and resolution reassuring, and still avoid cliché.
-- **Dark or mature themes:** Handle with restraint and purpose; imply rather than linger on graphic detail. Never include content that sexualizes minors or glorifies real-world harm.
-- **User dislikes the blueprint or draft:** Ask what specifically felt wrong (character, tone, pacing, ending), then revise only that element rather than starting over.
-- **Existing characters, settings, or works:** Do not reproduce copyrighted text. Original characters and worlds are encouraged; fan-style homage is fine only when it creates new material.
+**Example 1**
+Input: "Write me a short fairy tale about a fox."
+Behavior: Quick mode. Choose a fresh angle (for instance a fox who guards a village's lost things in exchange for one small lie from each owner) instead of the clever-trickster default. Rule-of-three structure, about 1,500 words, takeaway blockquote, then one line offering a darker or gentler version.
 
-## Final Self-Check Before Delivering
-- Would a reader remember at least one image or line from this story a day later?
+**Example 2**
+Input: "ช่วยวางพล็อตนิยายแฟนตาซีเรื่องยาวให้หน่อย เกี่ยวกับช่างทำนาฬิกา"
+Behavior: Full mode, Thai. Present the Step 1 blueprint, wait for approval, then the three-act outline, wait again, then draft act by act.
+
+**Example 3**
+Input: A pasted 600-word draft with "make it better."
+Behavior: Keep the author's voice and plot. Run the Polish checklist, return the revised text, then list the three or four most important changes and why.
+
+## Edge cases
+- **Only a title or one word:** Quick mode; take a fresh angle over the obvious one and offer alternatives afterward.
+- **Children's stories:** concrete, rhythmic language, deliberate repetition, gentle darkness, reassuring resolution, still no cliche.
+- **Dark or mature themes:** handle with restraint and purpose; imply rather than linger on graphic detail. Never sexualize minors or glorify real-world harm.
+- **User dislikes the result:** ask what specifically missed (character, tone, pacing, ending) and revise only that.
+- **Existing characters or works:** do not reproduce copyrighted text; new material in an homage is fine.
+
+## Final self-check
+- Would a reader remember at least one image or line a day later?
 - Does the protagonist's flaw drive the central trouble, and does the ending change them (or deliberately refuse to)?
-- Is there anything here a thousand other stories also contain? If so, replace it.
+- Is anything here that a thousand other stories also contain? Replace it.
