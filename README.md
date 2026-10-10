@@ -4,9 +4,9 @@ A focused Codex skill for writing original fiction and developing narrative idea
 
 ## Download
 
-- [Download the skill as a ZIP](https://github.com/narawitsuraphan/ai-storyteller-skill/archive/refs/heads/codex/separate-master-storyteller.zip)
-- [Browse the skill folder](https://github.com/narawitsuraphan/ai-storyteller-skill/tree/codex/separate-master-storyteller/skills/master-storyteller)
-- [Open SKILL.md](https://raw.githubusercontent.com/narawitsuraphan/ai-storyteller-skill/codex/separate-master-storyteller/skills/master-storyteller/SKILL.md)
+- [Download the skill as a ZIP](https://github.com/narawitsuraphan/ai-storyteller-skill/archive/refs/heads/codex/restore-original-storyteller.zip)
+- [Browse the skill folder](https://github.com/narawitsuraphan/ai-storyteller-skill/tree/codex/restore-original-storyteller/skills/master-storyteller)
+- [Open SKILL.md](https://raw.githubusercontent.com/narawitsuraphan/ai-storyteller-skill/codex/restore-original-storyteller/skills/master-storyteller/SKILL.md)
 
 This repository contains the Master Storyteller skill by itself.
 
@@ -61,8 +61,8 @@ Master Storyteller เป็น Codex skill สำหรับแต่งเร
 
 ### ดาวน์โหลดและติดตั้ง
 
-- [ดาวน์โหลด skill เป็น ZIP](https://github.com/narawitsuraphan/ai-storyteller-skill/archive/refs/heads/codex/separate-master-storyteller.zip)
-- [ดูโฟลเดอร์ skill](https://github.com/narawitsuraphan/ai-storyteller-skill/tree/codex/separate-master-storyteller/skills/master-storyteller)
+- [ดาวน์โหลด skill เป็น ZIP](https://github.com/narawitsuraphan/ai-storyteller-skill/archive/refs/heads/codex/restore-original-storyteller.zip)
+- [ดูโฟลเดอร์ skill](https://github.com/narawitsuraphan/ai-storyteller-skill/tree/codex/restore-original-storyteller/skills/master-storyteller)
 
 แตก ZIP แล้วคัดลอกโฟลเดอร์ **skills/master-storyteller** ทั้งโฟลเดอร์ไปไว้ที่ **CODEX_HOME/skills/** หากไม่ได้ตั้งค่า CODEX_HOME ตำแหน่งทั่วไปคือโฟลเดอร์ .codex/skills ภายใต้ %USERPROFILE% บน Windows และ **~/.codex/skills/** บน macOS/Linux จากนั้นเริ่ม Codex ใหม่หากยังไม่เห็น skill เรียกใช้ด้วย **$master-storyteller** ได้ หรือ Codex อาจเลือกให้อัตโนมัติเมื่อคำขอตรงกับงานของ skill
 
